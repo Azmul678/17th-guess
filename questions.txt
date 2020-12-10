@@ -1,0 +1,36 @@
+Output :;
+5V 2A/5W;
+3V 2A/5W;
+5V 4A/5W;
+5V 2A/10W;
+5V 2A/5W;
+|
+Ports :;
+2;
+3;
+4;
+5;
+2;
+|
+Battery :;
+10000mAh;
+20000mAh;
+30000mAh;
+8000mAh;
+10000mAh;
+|
+Display Type :;
+OLED;
+LCD;
+LED;
+TFT;
+LED;
+|
+Daraz is celebrating 12.12 for the :;
+First Time;
+Second Time;
+Third Time;
+Fourth Time;
+Third Time;
+|
+
